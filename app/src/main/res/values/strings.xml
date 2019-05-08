@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GoogleMapActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="where_did_i_park_the_car">Where Did I Park The Car?</string>
+    <string name="about_text">\n\n\nWritten by Jentry Maxwell and David Baker
+        \n\n\nCGCC CIS165 Final Class Project, Spring 2019
+        \n\n Version 17</string>
+    <string name="help_text">\nThank you for choosing this app!
+        \n\nTo Get Started
+        \nClick <i><b><u><font color ="#1E90FF">Continue</font></u></b></i> on the initial screen and a map displaying your current location will
+        appear (it may take a few moments as GPS signals are acquired).
+        \n\nSimply click <i><b><u><font color ="#1E90FF">Current Location</font></u></b></i> when you have parked your car to remember this location.
+        \n\n Click <i><b><u><font color ="#1E90FF">Navigate</font></u></b></i> and we will show you how to return.</string>
+
+</resources>
