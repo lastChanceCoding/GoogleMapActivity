@@ -19,3 +19,5 @@ Benefits:
 	2. Relies only on a good GPS signal, but is augmented with a Google feature map underlay that aids with recognition of surrounding structures.
 
 Main Operating Screen:  After clicking Continue on the Welcome Screen, we begin tracking your present location (red), and stay centered as you move.  Map zoom and scroll are enabled.  When you click Current Location, we'll remember that location in the database.  
+
+When you click Navigate, we'll recall the last-recorded location, and the display the following screen, leading back to the remembered position (blue).  Clicking Navigate releases tracking mode and returns to simply tracking your current location.  
