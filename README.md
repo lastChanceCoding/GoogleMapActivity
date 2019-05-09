@@ -4,8 +4,8 @@ Contributions:  Portions of code and code framing provided by Steve Osburn
 Class:  CIS165, Spring 2019, Final Project
 
 Changelog
-    2019-04-30 initial commit to Git and GitHub
-    2019-05-08 rebase at version 17 into GitHub.  This is a DEMO version where three canned locations are used to simulate car locations.  See code in mapsActivity.java for ways to revert to production mode.
+2019-04-30 initial commit to Git and GitHub
+2019-05-08 rebase at version 17 into GitHub.  This is a DEMO version where three canned locations are used to simulate car locations.  See code in mapsActivity.java for ways to revert to production mode.
     
  Notes:
  1.  This was a class example, so not fully functional for all API levels.  Tested on API Level 28, will have issues at API level < 23, so further code development needed for older devices.
