@@ -12,7 +12,7 @@ Changelog
  2. Better responsive design:  although it displays properly on both of our phones and on the emulators we selected, more testing would be needed for other screen sizes and resolutions. 
     
 Overview:
-This app easily remembers where you parked, and allows you to easily make your way back to your vehicle.  Although we demonstrate it's usefulness on a campus setting, it is also applicable to other situations where you need to find your way back... the mall, the concert, the stadium, the trailhead.
+This app remembers where you parked, and allows you to easily make your way back to your vehicle.  Although we demonstrate it's usefulness on a campus setting, it is also applicable to other situations where you need to find your way back... the mall, the concert, the stadium, the trailhead.
 
 Benefits:
 	1. Easy to use, intuitive interface, very simple to operate
